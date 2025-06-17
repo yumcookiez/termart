@@ -1,7 +1,6 @@
 # termart
-A mpv script that displays album art in the terminal
-![Screenshot of terminal with album art](termart.png)
+A mpv script that displays album art in the terminal.
 
-## Dependencies
-- ffmpeg
-- chafa
+Depends on ffmpeg and chafa.
+
+![Screenshot of terminal with album art](termart.png)
