@@ -2,7 +2,7 @@ local utils = require 'mp.utils'
 local msg = require 'mp.msg'
 
 local audio_exts = {
-    ".mp3", ".flac", ".wav", ".ogg", ".m4a", ".aac", ".opus", ".alac", ".wma"
+    ".mp3", ".flac", ".wav", ".ogg", ".m4a", ".aac", ".opus", ".alac", ".wma", ".mka"
 }
 
 function is_audio_file(path)
